@@ -13,4 +13,4 @@ A comprehensive full-stack project that integrates **Django**, **FastAPI**, **Ce
 - **Authentication**: OAuth2 + Django Token Auth
 - **AI Integration**: Python ML Models (e.g., Scikit-learn, TensorFlow)
 # DJANGO-EXAM
- Building High-Performance APIs with FastAPI and Django  t
+ Building High-Performance APIs with FastAPI and Django  

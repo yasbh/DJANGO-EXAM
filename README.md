@@ -42,9 +42,6 @@ The system was built to showcase modern Python web development techniques includ
 | Graphene-Django   | GraphQL query engine                    |
 | Pydantic          | FastAPI request validation              |
 | JWT + OAuth2      | Authentication & authorization          |
-                  |
-
----
 
 ##  What I Did
 
@@ -62,9 +59,6 @@ The system was built to showcase modern Python web development techniques includ
 - Used Pydantic to validate FastAPI request schemas.
 - Built GraphQL types and resolvers to fetch tasks and results via GraphQL API.
 - Enabled OAuth2 + token security for FastAPI routes.
-
----
-
 
 ## How to Run It
 

@@ -14,10 +14,6 @@ A comprehensive full-stack project that integrates **Django**, **FastAPI**, **Ce
 
 # DJANGO-EXAM
 
-This project is a **hybrid web application** that combines the robustness of Django with the speed of FastAPI to build a high-performance task processing platform. It allows users to submit tasks, which are then processed asynchronously using Celery. The system also features a simulated AI engine to provide real-time predictions. All operations are secure, scalable, and REST/GraphQL compatible.
-
----
-
 ## Project Objectives
 
 The system was built to showcase modern Python web development techniques including:
